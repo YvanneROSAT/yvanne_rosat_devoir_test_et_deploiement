@@ -45,3 +45,8 @@ npm test
 - L'application peut être déployée en utilisant Git et SSH.
 - Configurez un serveur distant avec Nginx pour servir l'application.
 - J'ai utiliser le PM2 pour gérer le processus Node.js en production sur le serveur distant.
+
+### Clef publique SSH
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAtvAxSsEe5jEtcMfdDkOp7o0jV9mMBnf7mldYsCT4yY yvanne.gombetrosat@livecampus.tech
+```
